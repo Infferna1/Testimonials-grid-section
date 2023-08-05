@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Infferna1/Testimonials-grid-section)
+- Solution URL: [GitHub](https://github.com/Infferna1/Testimonials-grid-section.git)
 - Live Site URL: [Live Site](https://infferna1.github.io/Testimonials-grid-section/)
 
 ## My process
