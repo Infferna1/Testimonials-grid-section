@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Infferna1/Testimonials-grid-section)
+- Live Site URL: [Live Site](https://infferna1.github.io/Testimonials-grid-section/)
 
 ## My process
 
